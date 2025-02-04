@@ -121,7 +121,8 @@
         "@mrnima/facebook-downloader":"1.0.0",
         "mrnima-moviedl":"1.0.0",
         "@dark-yasiya/yt-dl.js": "latest",
-        "hirunews-scrap":"1.1.3"
+        "hirunews-scrap":"1.1.3",
+        "cn":"0.1.1"
         
     }
 }
