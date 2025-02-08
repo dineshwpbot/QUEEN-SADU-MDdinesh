@@ -60,7 +60,7 @@ cmd({
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363220399229557@newsletter',
+                    newsletterJid: '120363357105376275@g.us@newsletter',
                     newsletterName: 'MR DINESH AI',
                     serverMessageId: 143
                 }
